@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-permalink: /about/
+permalink: /contact/
 ---
 
 Vous pouvez me contacter à cette adresse
