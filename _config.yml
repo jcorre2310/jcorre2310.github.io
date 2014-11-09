@@ -10,7 +10,7 @@ url: "http://jcorre2310.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 paginate : 1
-permalink: /:title/
+permalink: /:title
 
 # Build settings
 markdown: kramdown
