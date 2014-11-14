@@ -6,4 +6,4 @@ categories: post
 permalink: /firstArticle/
 ---
 
-Le premier article. ecrit par johan !
+Le premier article. ecrit par johan ! Et geoffrey !
