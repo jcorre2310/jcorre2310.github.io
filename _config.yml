@@ -12,5 +12,9 @@ github_username:  jekyll
 paginate : 1
 permalink: /:categories/:title
 
+collections:
+  news:
+    output: true
+
 # Build settings
 markdown: kramdown
