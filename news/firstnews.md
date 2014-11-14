@@ -1,5 +1,7 @@
 ---
 layout: default
 title: firstNews
-catagorie: news
+catagories: news
 ---
+
+My first news
