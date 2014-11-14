@@ -5,4 +5,4 @@ date: 2014-11-08
 categories: post
 ---
 
-Le premier article. ecrit par johan ! Et geoffrey !
+Le premier article. ecrit par johan ! Et Geoffrey, mais surtout Johan.
